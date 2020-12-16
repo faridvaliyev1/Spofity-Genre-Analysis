@@ -1,0 +1,652 @@
+,Number,title,artist,top genre,year,tempo,energy,danceability,loudness,liveness,valence,duration,acousticness,speechiness,popularity
+0,1,Put Your Head On My Shoulder,Paul Anka,adult standards,2000,116,0.34,0.55,-9,0.1,0.47,155000,0.75,0.03,72
+1,2,Whatever Will Be Will Be (Que Sera Sera) (with Frank DeVol & His Orchestra) - Single Version,Doris Day,adult standards,1948,177,0.34,0.42,-11,0.72,0.78,123000,0.86,0.04,62
+2,3,Everybody Loves Somebody,Dean Martin,adult standards,2013,81,0.49,0.26,-9,0.34,0.4,162000,0.81,0.04,61
+3,4,Take Good Care Of My Baby - 1990 Remastered,Bobby Vee,adult standards,2011,82,0.43,0.49,-12,0.12,0.66,151000,0.7,0.06,60
+4,5,A Teenager In Love,Dion & The Belmonts,adult standards,1959,79,0.38,0.56,-9,0.13,0.62,158000,0.67,0.03,60
+5,6,She's Got You - Single Version,Patsy Cline,adult standards,1962,182,0.14,0.39,-18,0.11,0.57,182000,0.94,0.04,57
+6,7,Puppy Love - Remix,Paul Anka,adult standards,2000,102,0.41,0.29,-10,0.27,0.54,164000,0.66,0.03,56
+7,8,Travelin' Man - Remastered,Ricky Nelson,adult standards,1991,123,0.36,0.74,-12,0.12,0.86,143000,0.67,0.03,55
+8,9,Mr. Blue,The Fleetwoods,adult standards,1993,97,0.09,0.37,-17,0.11,0.21,145000,0.93,0.04,55
+9,10,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,Brian Hyland,adult standards,1961,123,0.43,0.81,-12,0.02,0.96,144000,0.55,0.09,54
+10,11,Lonesome Town - 1990 Digital Remaster,Ricky Nelson,adult standards,1990,78,0.1,0.51,-18,0.1,0.3,136000,0.86,0.03,54
+11,12,16 Candles,Johnny Maestro,brill building pop,1993,114,0.31,0.6,-11,0.09,0.6,175000,0.73,0.03,53
+12,13,If I Give My Heart to You (with The Mellomen) - 78rpm Version,Doris Day,adult standards,1945,77,0.06,0.5,-16,0.1,0.33,169000,0.97,0.05,52
+13,14,Sh-Boom - Single Version,The Chords,doo-wop,2007,137,0.47,0.67,-9,0.27,0.91,144000,0.85,0.05,52
+14,15,Sh-Boom (Life Could Be A Dream),The Crew Cuts,doo-wop,2006,130,0.27,0.67,-11,0.23,0.56,168000,0.85,0.09,51
+15,16,It's All In The Game,Tommy Edwards,deep adult standards,1994,105,0.28,0.38,-14,0.31,0.65,159000,0.04,0.03,49
+16,17,You Mean Everything to Me,Neil Sedaka,adult standards,1959,72,0.43,0.37,-8,0.13,0.68,158000,0.52,0.03,48
+17,18,April Love,Pat Boone,adult standards,1962,91,0.17,0.39,-15,0.08,0.5,161000,0.83,0.03,48
+18,19,Surf City - Remastered 1990/Stereo Remix,Jan & Dean,brill building pop,1990,148,0.65,0.47,-14,0.34,0.94,163000,0.6,0.03,48
+19,20,I've Grown Accustomed To Her Face - Remastered/1998,Dean Martin,adult standards,1960,79,0.12,0.57,-16,0.11,0.34,163000,0.79,0.06,47
+20,21,Rubber Ball,Bobby Vee,adult standards,1961,143,0.43,0.42,-10,0.18,0.77,144000,0.69,0.04,47
+21,22,Chicago - Remastered,Frank Sinatra,adult standards,1958,148,0.46,0.51,-10,0.4,0.79,134000,0.61,0.07,47
+22,23,But Not For Me,Ella Fitzgerald,adult standards,1959,80,0.22,0.18,-17,0.1,0.16,214000,0.92,0.04,45
+23,24,In The Still Of The Night,The Five Satins,brill building pop,2010,110,0.32,0.44,-10,0.11,0.2,184000,0.88,0.04,44
+24,25,Only Because,The Platters,adult standards,1957,73,0.28,0.55,-10,0.09,0.47,174000,0.85,0.03,44
+25,26,Che La Luna,Louis Prima,adult standards,1973,127,0.64,0.68,-12,0.21,0.99,152000,0.3,0.06,44
+26,27,My Happiness,Connie Francis,adult standards,1996,107,0.31,0.45,-8,0.13,0.28,150000,0.75,0.03,44
+27,28,Brown Eyed Handsome Man,Buddy Holly,adult standards,1963,95,0.97,0.59,-7,0.09,0.86,125000,0.04,0.09,43
+28,29,Poetry In Motion,Johnny Tillotson,adult standards,2011,135,0.71,0.49,-7,0.1,0.9,154000,0.4,0.03,41
+29,30,To The Aisle,The Five Satins,brill building pop,2008,195,0.27,0.32,-10,0.1,0.55,166000,0.91,0.04,41
+30,31,Tulips From Amsterdam,Max Bygraves,british comedy,2000,93,0.45,0.56,-7,0.15,0.7,135000,0.49,0.03,41
+33,34,Let's Fall in Love,James Darren,adult standards,2014,128,0.29,0.51,-11,0.08,0.58,128000,0.78,0.04,39
+34,35,Runaround,The Fleetwoods,adult standards,2011,79,0.14,0.37,-15,0.12,0.36,154000,0.95,0.04,39
+35,36,A Thousand Miles Away,The Temprees,classic soul,1984,75,0.26,0.48,-15,0.28,0.3,199000,0.39,0.03,39
+36,37,Walkin’ My Baby Back Home,Dean Martin,adult standards,2007,127,0.17,0.72,-13,0.07,0.78,175000,0.98,0.07,39
+37,38,Outside My Window,The Fleetwoods,adult standards,1993,106,0.16,0.59,-18,0.11,0.47,129000,0.88,0.03,39
+38,39,I Love My Girl,The Hilltoppers,deep adult standards,2011,123,0.45,0.74,-10,0.1,0.96,106000,0.88,0.04,38
+39,40,Eddie My Love,The Chordettes,adult standards,2012,108,0.14,0.57,-12,0.13,0.39,135000,0.82,0.03,38
+40,41,Let There Be You,The Five Keys,doo-wop,1989,92,0.11,0.36,-15,0.2,0.23,154000,0.97,0.03,38
+41,42,Raindrops,Roy Orbison,adult standards,1961,103,0.44,0.59,-10,0.05,0.9,113000,0.52,0.03,38
+43,44,It All Depends on You,Craig Douglas,brill building pop,1993,147,0.32,0.53,-10,0.17,0.73,127000,0.87,0.07,37
+44,45,A Tear Fell,Teresa Brewer,adult standards,1995,86,0.16,0.42,-16,0.18,0.46,156000,0.92,0.05,37
+45,46,Ain't Got No Home,"Clarence ""Frogman"" Henry",louisiana blues,2013,84,0.33,0.66,-16,0.09,0.53,143000,0.69,0.09,36
+46,47,Carolina in the Morning,Craig Douglas,brill building pop,2011,81,0.2,0.35,-13,0.09,0.43,213000,0.87,0.03,36
+47,48,Gigi,Billy Eckstine,adult standards,1958,81,0.12,0.21,-17,0.12,0.19,155000,0.93,0.03,35
+48,49,What Do You Want,Adam Faith,brill building pop,1989,147,0.37,0.55,-9,0.24,0.85,98000,0.84,0.04,35
+49,50,You Belong to My Heart,Timi Yuro,adult standards,2013,108,0.39,0.46,-10,0.16,0.5,126000,0.82,0.03,35
+51,52,More,Jimmy Young,deep adult standards,2007,126,0.31,0.36,-11,0.25,0.29,146000,0.77,0.03,34
+52,53,Do You Wanna Dance,Bobby Freeman,doo-wop,2013,167,0.5,0.55,-15,0.15,0.96,149000,0.89,0.06,33
+53,54,My September Love,David Whitfield,deep adult standards,2000,137,0.21,0.24,-17,0.2,0.14,166000,0.65,0.03,33
+54,55,Seven Days,Anne Shelton,british dance band,2016,90,0.27,0.53,-8,0.27,0.72,149000,0.89,0.03,33
+55,56,Marianne,The Hilltoppers,deep adult standards,2019,106,0.55,0.71,-8,0.19,0.82,137000,0.73,0.04,33
+56,57,Sea Of Love,Marty Wilde,brill building pop,2010,84,0.39,0.45,-9,0.13,0.39,144000,0.91,0.03,32
+59,60,Kisses Sweeter Than Wine,Frankie Vaughan,merseybeat,2010,87,0.46,0.57,-9,0.18,0.86,138000,0.61,0.05,31
+60,61,Are You Really Mine,Jimmy Rodgers,yodeling,2014,102,0.19,0.69,-17,0.13,0.56,148000,0.77,0.03,31
+61,62,Butterfingers,Tommy Steele,classic uk pop,2000,75,0.14,0.52,-14,0.14,0.26,135000,0.7,0.03,30
+62,63,Come Softly To Me,Frankie Vaughan,merseybeat,2010,131,0.34,0.57,-14,0.35,0.89,142000,0.82,0.03,30
+63,64,Ninety-Nine Ways,Tab Hunter,deep adult standards,2000,125,0.33,0.59,-10,0.09,0.68,108000,0.87,0.03,30
+64,65,Only Sixteen - 2004 Remaster,Craig Douglas,brill building pop,2008,114,0.55,0.65,-10,0.36,0.59,136000,0.63,0.04,29
+68,69,Collette,Billy Fury,adult standards,1982,155,0.44,0.55,-10,0.1,0.73,112000,0.82,0.04,27
+72,73,Held for Questioning,Rusty Draper,deep adult standards,1953,109,0.65,0.7,-2,0.14,0.85,146000,0.79,0.03,26
+0,1,Here Comes The Sun - Remastered 2009,The Beatles,british invasion,1969,129,0.54,0.56,-10,0.18,0.39,186000,0.03,0.03,82
+1,2,Come Together - Remastered 2009,The Beatles,british invasion,1969,165,0.38,0.53,-12,0.09,0.19,260000,0.03,0.04,79
+2,3,Sweet Caroline,Neil Diamond,adult standards,1969,63,0.13,0.53,-16,0.24,0.58,204000,0.61,0.03,78
+3,4,Yesterday - Remastered 2009,The Beatles,british invasion,1965,97,0.18,0.33,-12,0.09,0.32,126000,0.88,0.03,78
+4,5,Can't Help Falling in Love,Elvis Presley,adult standards,1961,100,0.29,0.4,-14,0.11,0.34,182000,0.94,0.03,78
+5,6,Fly Me To The Moon (In Other Words),Frank Sinatra,adult standards,1962,119,0.26,0.67,-14,0.06,0.37,147000,0.45,0.05,76
+6,7,I Want To Hold Your Hand - Remastered 2015,The Beatles,british invasion,2000,131,0.72,0.49,-6,0.31,0.87,146000,0.39,0.05,74
+7,8,White Room,Cream,album rock,1968,110,0.58,0.55,-13,0.04,0.46,298000,0.19,0.03,73
+8,9,Put Your Head On My Shoulder,Paul Anka,adult standards,2000,116,0.34,0.55,-9,0.1,0.47,155000,0.75,0.03,72
+9,10,Build Me Up Buttercup,The Foundations,brill building pop,1968,134,0.51,0.66,-7,0.28,0.85,178000,0.31,0.03,72
+10,11,My Way,Frank Sinatra,adult standards,1969,75,0.38,0.4,-7,0.12,0.23,277000,0.7,0.03,72
+11,12,Surfin' U.S.A. - Remastered,The Beach Boys,baroque pop,1963,159,0.85,0.55,-6,0.11,0.97,149000,0.66,0.04,71
+12,13,Pinball Wizard,The Who,album rock,1969,124,0.72,0.54,-9,0.26,0.47,181000,0.02,0.04,69
+13,14,L-O-V-E,Nat King Cole,adult standards,1992,78,0.37,0.43,-8,0.08,0.66,155000,0.68,0.08,68
+14,15,Please Mr. Postman,The Marvelettes,brill building pop,1961,122,0.78,0.79,-5,0.18,0.97,148000,0.73,0.03,68
+15,16,Hey Jude - Remastered 2009,The Beatles,british invasion,1973,145,0.55,0.4,-10,0.09,0.67,431000,0.03,0.03,67
+16,17,Back In The U.S.S.R. - Remastered 2009,The Beatles,british invasion,1968,142,0.97,0.48,-7,0.06,0.49,163000,0.07,0.09,66
+17,18,Suite: Judy Blue Eyes - Remastered,Crosby Stills & Nash,album rock,1969,154,0.36,0.45,-13,0.2,0.3,444000,0.47,0.04,66
+18,19,Waterloo Sunset - Mono Mix,The Kinks,album rock,1967,108,0.69,0.51,-7,0.17,0.42,194000,0.16,0.02,65
+19,20,Baby I Need Your Loving,Four Tops,adult standards,1965,121,0.69,0.63,-6,0.19,0.65,166000,0.44,0.04,63
+20,21,Heart Full of Soul,The Yardbirds,album rock,2002,141,0.67,0.49,-10,0.05,0.7,148000,0.23,0.04,62
+21,22,Gloria - Stereo Version,Them,blues rock,2015,129,0.7,0.64,-10,0.1,0.72,157000,0.4,0.05,62
+22,23,It Takes Two,Marvin Gaye,classic soul,1966,151,0.48,0.52,-11,0.08,0.81,178000,0.21,0.05,62
+23,24,This Will Be Our Year,The Zombies,art rock,1968,98,0.42,0.54,-7,0.19,0.54,128000,0.63,0.03,61
+24,25,Take Good Care Of My Baby - 1990 Remastered,Bobby Vee,adult standards,2011,82,0.43,0.49,-12,0.12,0.66,151000,0.7,0.06,60
+25,26,Hey! Baby - Remastered,Bruce Channel,rock-and-roll,2017,64,0.62,0.52,-6,0.27,0.64,144000,0.36,0.04,60
+26,27,Comment te dire adieu - It Hurts to Say Goodbye,Françoise Hardy,chanson,2005,124,0.45,0.73,-12,0.11,0.84,146000,0.2,0.06,59
+27,28,Rhythm of the Rain,The Cascades,adult standards,1963,117,0.66,0.66,-8,0.14,0.67,146000,0.63,0.04,59
+28,29,What Becomes Of The Brokenhearted,Jimmy Ruffin,brill building pop,1989,99,0.42,0.72,-13,0.57,0.6,176000,0.62,0.03,59
+29,30,Friday On My Mind,The Easybeats,australian rock,1965,95,0.99,0.37,-1,0.09,0.51,163000,0.38,0.08,59
+30,31,Today,Jefferson Airplane,art rock,1967,90,0.31,0.51,-14,0.13,0.29,178000,0.7,0.03,59
+31,32,Always See Your Face,Love,art rock,1969,110,0.58,0.57,-13,0.06,0.92,209000,0.38,0.03,58
+32,33,Astral Weeks - 1999 Remaster,Van Morrison,classic rock,1968,81,0.35,0.45,-15,0.14,0.61,426000,0.54,0.03,58
+33,34,Both Sides Now,Joni Mitchell,canadian folk,1969,97,0.16,0.62,-15,0.14,0.33,275000,0.91,0.03,58
+34,35,Tous les garçons et les filles - Slow,Françoise Hardy,chanson,1962,108,0.37,0.74,-10,0.14,0.89,188000,0.81,0.03,57
+35,36,"Ferry Cross the Mersey - Stereo, 1997 Remaster",Gerry & The Pacemakers,adult standards,1997,105,0.29,0.4,-11,0.12,0.61,144000,0.55,0.03,56
+36,37,Needles and Pins - Mono,The Searchers,adult standards,1964,124,0.95,0.56,-7,0.06,0.89,131000,0.05,0.04,56
+37,38,Little Bit Of Rain,Karen Dalton,alternative country,1969,174,0.06,0.43,-22,0.1,0.36,157000,0.93,0.04,56
+38,39,Young Girl,Gary Puckett & The Union Gap,adult standards,1968,119,0.54,0.41,-8,0.51,0.45,194000,0.65,0.03,56
+39,40,Leaving Trunk,Taj Mahal,acoustic blues,1968,174,0.5,0.54,-11,0.17,0.95,290000,0.2,0.05,55
+40,41,Dream A Little Dream Of Me,Ella Fitzgerald,adult standards,1963,72,0.07,0.28,-24,0.11,0.22,246000,0.93,0.08,54
+41,42,The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime),Scott Walker,art pop,1969,91,0.45,0.42,-16,0.16,0.78,221000,0.58,0.04,54
+42,43,Pictures of Matchstick Men - Mono Version,Status Quo,album rock,1968,173,0.6,0.24,-4,0.05,0.42,191000,0.07,0.03,54
+43,44,No Sugar Tonight / New Mother Nature,The Guess Who,album rock,2000,101,0.83,0.51,-9,0.31,0.52,294000,0.56,0.04,54
+44,45,I'm Gonna Make You Love Me,Diana Ross & The Supremes,classic girl group,1968,98,0.39,0.64,-12,0.26,0.43,187000,0.39,0.04,54
+45,46,Silence Is Golden,The Tremeloes,adult standards,1997,112,0.56,0.44,-7,0.24,0.58,191000,0.06,0.03,53
+46,47,Can't Take My Eyes Off You,Frankie Valli,adult standards,2017,124,0.78,0.58,-7,0.08,0.56,204000,0.51,0.06,53
+47,48,You Ain't Goin' Nowhere,The Byrds,art rock,1968,132,0.43,0.51,-14,0.76,0.7,153000,0.11,0.04,53
+48,49,Everybody Knows This Is Nowhere - 2009 Remaster,Neil Young,album rock,1969,158,0.64,0.52,-9,0.42,0.85,149000,0.02,0.03,52
+49,50,Everybody Needs Somebody To Love - Long Version,The Rolling Stones,album rock,1965,178,0.73,0.53,-8,0.11,0.8,303000,0.26,0.07,52
+50,51,The Sun Ain't Gonna Shine Anymore,The Walker Brothers,brill building pop,1998,111,0.68,0.38,-7,0.24,0.43,195000,0.22,0.04,52
+51,52,What the World Needs Now Is Love,Dionne Warwick,adult standards,2016,112,0.36,0.57,-10,0.14,0.4,190000,0.92,0.04,51
+52,53,Everlasting Love,Love Affair,bubblegum pop,2012,121,0.6,0.5,-10,0.49,0.81,182000,0.26,0.04,51
+53,54,Itchycoo Park (Mono Version) - 2012 Remaster,Small Faces,art rock,1967,127,0.56,0.61,-10,0.12,0.56,167000,0.58,0.07,51
+54,55,Here Comes the Night,Them,blues rock,2015,99,0.58,0.64,-9,0.16,0.96,167000,0.44,0.03,50
+55,56,Surf City,Jan & Dean,brill building pop,2010,148,0.81,0.53,-13,0.23,0.96,147000,0.5,0.03,50
+56,57,Crying,Roy Orbison,adult standards,2017,97,0.47,0.23,-6,0.32,0.21,179000,0.57,0.03,49
+57,58,You'll Never Walk Alone,Gerry & The Pacemakers,adult standards,2017,114,0.43,0.45,-6,0.22,0.29,160000,0.42,0.03,49
+58,59,Everybody Loves Somebody,Dean Martin,adult standards,2014,119,0.41,0.5,-12,0.35,0.46,164000,0.86,0.04,49
+59,60,Spanish Eyes,Al Martino,adult standards,1977,109,0.49,0.51,-9,0.09,0.49,167000,0.36,0.03,49
+60,61,I Walk on Guilded Splinters,Dr. John,blues,1968,90,0.29,0.65,-19,0.09,0.71,466000,0.56,0.08,48
+61,62,Goin' Back,The Byrds,art rock,1968,116,0.45,0.5,-10,0.12,0.55,206000,0.36,0.03,47
+62,63,Isfahan,Duke Ellington,adult standards,1967,173,0.07,0.25,-14,0.1,0.09,246000,0.98,0.03,47
+63,64,Hot Burrito #1,The Flying Burrito Brothers,alternative country,1969,157,0.43,0.4,-13,0.17,0.35,217000,0.01,0.03,46
+64,65,Over Under Sideways Down - The Mono Album,The Yardbirds,album rock,1966,97,0.86,0.53,-11,0.31,0.39,143000,0.29,0.08,46
+65,66,Honey,Bobby Goldsboro,adult standards,2008,93,0.35,0.5,-10,0.24,0.53,241000,0.3,0.03,46
+66,67,Everybody's Talkin',Fred Neil,american folk revival,1998,120,0.3,0.67,-13,0.15,0.57,165000,0.52,0.03,46
+67,68,She'd Rather Be With Me,The Turtles,brill building pop,1967,124,0.78,0.49,-11,0.15,0.94,142000,0.27,0.03,46
+68,69,Indian Reservation (The Lament of the Cherokee Reservation Indian),Paul Revere & The Raiders,brill building pop,1971,132,0.39,0.64,-13,0.09,0.21,172000,0.28,0.08,46
+69,70,Locomotive,Thelonious Monk,bebop,1967,112,0.44,0.67,-11,0.13,0.7,400000,0.78,0.04,46
+70,71,Rag Doll,Frankie Valli & The Four Seasons,adult standards,2003,121,0.53,0.5,-8,0.07,0.61,182000,0.76,0.04,45
+71,72,Telstar,The Tornados,british invasion,1962,146,0.75,0.2,-7,0.38,0.63,195000,0.0,0.04,45
+72,73,So Much In Love,The Tymes,beach music,1963,76,0.49,0.55,-10,0.45,0.44,140000,0.79,0.03,45
+73,74,This Eve of Parting,John Hartford,appalachian folk,2018,115,0.46,0.56,-12,0.21,0.34,153000,0.18,0.03,44
+74,75,Trouble Every Day,Frank Zappa,album rock,1966,121,0.78,0.31,-13,0.9,0.48,350000,0.51,0.08,44
+75,76,No Time,The Guess Who,album rock,1971,128,0.48,0.48,-14,0.05,0.12,219000,0.08,0.06,44
+76,77,The Game Of Love,Wayne Fontana & The Mindbenders,british invasion,1964,109,0.83,0.57,-4,0.19,0.96,127000,0.09,0.03,43
+77,78,Ringo,Lorne Greene,cowboy western,1964,111,0.52,0.56,-13,0.22,0.65,214000,0.86,0.31,43
+78,79,Black Christ of the Andes (St. Martin de Porres),Mary Lou Williams,bebop,1964,89,0.07,0.2,-20,0.13,0.06,400000,0.98,0.03,42
+79,80,Sheila,Tommy Roe,adult standards,1962,136,0.57,0.42,-9,0.06,0.48,127000,0.28,0.11,42
+80,81,Walkin' Back to Happiness,Helen Shapiro,adult standards,2017,97,0.67,0.65,-9,0.17,0.83,150000,0.66,0.08,42
+81,82,Barabajagal (with Jeff Beck Group),Donovan,art rock,1969,100,0.57,0.67,-17,0.08,0.68,200000,0.1,0.07,42
+82,83,On The Sunny Side Of The Ocean,John Fahey,drone folk,1965,116,0.73,0.48,-10,0.16,0.48,193000,0.81,0.03,41
+83,84,Ca' the Yowes,Shirley & Dolly Collins,british folk,2008,80,0.07,0.32,-10,0.27,0.32,208000,0.76,0.03,41
+84,85,Mr. Soul,Buffalo Springfield,blues rock,1969,135,0.55,0.67,-13,0.04,0.96,172000,0.1,0.03,41
+85,86,My Spiritual Indian,Eddie Palmieri,boogaloo,1969,121,0.92,0.48,-6,0.07,0.5,400000,0.58,0.08,41
+86,87,Myself When I Am Real,Charles Mingus,avant-garde jazz,1963,81,0.19,0.32,-17,0.08,0.1,456000,0.99,0.04,41
+87,88,This Diamond Ring,Gary Lewis & The Playboys,adult standards,2011,133,0.61,0.63,-11,0.14,0.78,137000,0.33,0.03,41
+88,89,Cry Like a Baby,The Box Tops,brill building pop,1968,133,0.47,0.67,-12,0.5,0.77,152000,0.34,0.03,40
+89,90,Red Rubber Ball,The Cyrkle,brill building pop,2002,92,0.52,0.61,-10,0.09,0.79,139000,0.43,0.03,39
+90,91,Lovely Sky Boat,Alice Coltrane,afropop,1968,119,0.43,0.34,-17,0.19,0.44,411000,0.45,0.05,38
+91,92,The Ballad of Bonnie & Clyde,Georgie Fame,british blues,1968,107,0.47,0.71,-10,0.25,0.74,190000,0.71,0.09,38
+92,93,A World Without Love,Peter And Gordon,brill building pop,2017,130,0.66,0.51,-10,0.11,0.75,161000,0.23,0.06,37
+93,94,Don't Break The Heart That Loves You,Connie Francis,adult standards,1996,73,0.41,0.39,-6,0.2,0.2,182000,0.82,0.03,37
+94,95,Live Wire,The Meters,afrobeat,1969,114,0.77,0.68,-12,0.17,0.96,160000,0.27,0.04,36
+95,96,Laugh Laugh,The Beau Brummels,brill building pop,2006,129,0.68,0.49,-9,0.1,0.75,177000,0.3,0.05,30
+96,97,Peppermint Twist Pt.1,Joey Dee,australian talent show,2019,199,0.73,0.42,-11,0.73,0.72,122000,0.37,0.14,30
+0,1,Bohemian Rhapsody - 2011 Mix,Queen,glam rock,1975,71,0.4,0.41,-10,0.3,0.22,354000,0.27,0.05,84
+1,2,Highway to Hell,AC/DC,album rock,1979,116,0.91,0.57,-5,0.16,0.42,208000,0.06,0.13,83
+2,3,Don't Stop Me Now - 2011 Mix,Queen,glam rock,1978,156,0.87,0.56,-5,0.78,0.61,209000,0.05,0.17,82
+3,4,Rocket Man (I Think It's Going To Be A Long Long Time),Elton John,glam rock,1972,137,0.53,0.6,-9,0.09,0.34,282000,0.43,0.03,81
+4,5,We Will Rock You - Remastered,Queen,glam rock,1977,81,0.5,0.69,-7,0.26,0.48,122000,0.68,0.12,79
+5,6,Let It Be - Remastered 2009,The Beatles,british invasion,1970,143,0.4,0.44,-8,0.11,0.41,243000,0.63,0.03,79
+6,7,Mr. Blue Sky,Electric Light Orchestra,album rock,1977,178,0.34,0.39,-10,0.25,0.48,303000,0.65,0.03,79
+7,8,Tiny Dancer,Elton John,glam rock,1971,145,0.43,0.41,-11,0.15,0.28,377000,0.38,0.03,79
+8,9,Dreams - 2004 Remaster,Fleetwood Mac,album rock,1977,120,0.49,0.83,-10,0.13,0.79,258000,0.06,0.03,79
+9,10,I Was Made For Lovin' You,KISS,album rock,1979,128,0.85,0.77,-6,0.07,0.87,271000,0.21,0.04,78
+10,11,Immigrant Song - Remaster,Led Zeppelin,album rock,1970,113,0.93,0.56,-10,0.35,0.62,146000,0.01,0.06,77
+11,12,Imagine - Remastered,John Lennon,album rock,1971,76,0.26,0.55,-12,0.09,0.17,188000,0.91,0.03,77
+12,13,How Deep Is Your Love,Bee Gees,adult standards,1979,105,0.36,0.63,-9,0.13,0.67,245000,0.11,0.03,77
+13,14,We Are The Champions - Remastered 2011,Queen,glam rock,1977,64,0.46,0.27,-7,0.12,0.18,179000,0.38,0.03,76
+14,15,Don't Go Breaking My Heart,Elton John,glam rock,1975,131,0.84,0.73,-9,0.06,0.78,275000,0.15,0.03,75
+15,16,Somebody To Love - 2011 Mix,Queen,glam rock,1976,109,0.7,0.41,-7,0.23,0.33,296000,0.19,0.06,75
+16,17,Rock And Roll All Nite,KISS,album rock,1975,145,0.93,0.65,-6,0.05,0.9,169000,0.05,0.1,75
+17,18,Listen to the Music,The Doobie Brothers,album rock,1972,106,0.6,0.65,-13,0.07,0.91,227000,0.22,0.03,75
+18,19,Take It Easy - 2013 Remaster,Eagles,album rock,1972,139,0.67,0.57,-10,0.13,0.74,212000,0.34,0.03,75
+19,20,Smoke On The Water - Remastered 2012,Deep Purple,album rock,1972,114,0.68,0.6,-9,0.11,0.81,341000,0.13,0.03,75
+20,21,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,europop,1979,120,0.49,0.75,-10,0.16,0.54,293000,0.02,0.04,74
+21,22,Love Of My Life - Remastered 2011,Queen,glam rock,1975,154,0.18,0.33,-12,0.12,0.26,217000,0.93,0.03,74
+22,23,Father And Son,Yusuf / Cat Stevens,british folk,1970,136,0.33,0.5,-11,0.1,0.4,221000,0.59,0.03,74
+23,24,Rebel Rebel - 2016 Remaster,David Bowie,album rock,1974,126,0.69,0.64,-16,0.28,0.46,275000,0.21,0.05,74
+24,25,You're The One That I Want - From â€œGreaseâ€,John Travolta,hollywood,1978,107,0.61,0.76,-11,0.1,0.82,170000,0.28,0.06,74
+25,26,The Boys Are Back In Town,Thin Lizzy,album rock,1976,81,0.71,0.45,-10,0.21,0.77,267000,0.23,0.05,74
+26,27,Brandy (You're a Fine Girl),Looking Glass,soft rock,1972,125,0.63,0.72,-11,0.13,0.83,187000,0.4,0.06,73
+27,28,Starman - 2012 Remaster,David Bowie,album rock,1972,100,0.45,0.49,-10,0.54,0.55,254000,0.17,0.03,73
+28,29,Mamma Mia,ABBA,europop,1975,138,0.75,0.75,-7,0.47,0.83,213000,0.3,0.03,72
+29,30,Life in the Fast Lane - 2013 Remaster,Eagles,album rock,1976,110,0.76,0.67,-7,0.05,0.88,286000,0.1,0.07,72
+30,31,Rock with You - Single Version,Michael Jackson,pop,1979,114,0.54,0.81,-13,0.16,0.85,221000,0.18,0.04,72
+31,32,Another Brick In The Wall Pt. 2 - 2011 Remastered Version,Pink Floyd,album rock,1979,104,0.39,0.69,-16,0.25,0.72,239000,0.08,0.04,72
+32,33,YMCA - Original Version 1978,Village People,disco,1978,127,0.97,0.72,-5,0.12,0.73,287000,0.06,0.14,71
+33,34,Take Me Home Country Roads,John Denver,adult standards,1971,82,0.4,0.46,-9,0.12,0.63,190000,0.76,0.03,70
+34,35,Reelin' In The Years,Steely Dan,album rock,1972,135,0.76,0.52,-10,0.11,0.71,275000,0.12,0.04,70
+35,36,Mandy,Barry Manilow,adult standards,1974,104,0.46,0.31,-9,0.14,0.32,213000,0.42,0.03,69
+36,37,Everything I Own,Bread,adult standards,1972,79,0.34,0.37,-13,0.1,0.45,187000,0.74,0.03,69
+37,38,Sailing,Rod Stewart,adult standards,1975,129,0.37,0.43,-10,0.32,0.19,278000,0.37,0.03,68
+38,39,Detroit Rock City,KISS,album rock,1978,91,0.9,0.55,-7,0.29,0.46,216000,0.04,0.07,68
+39,40,Let Your Love Flow,The Bellamy Brothers,country,1976,109,0.55,0.68,-15,0.14,0.95,199000,0.06,0.03,68
+40,41,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,album rock,1974,118,0.44,0.48,-15,0.22,0.76,235000,0.0,0.04,68
+41,42,Are You Ready For Love? - Remastered,Elton John,glam rock,2017,117,0.75,0.8,-5,0.11,0.75,212000,0.25,0.03,67
+42,43,Guilty (feat. Barry Gibb),Barbra Streisand,adult standards,1980,151,0.43,0.63,-16,0.11,0.95,264000,0.23,0.04,67
+43,44,Fat Bottomed Girls - 2011 Remaster,Queen,glam rock,1978,89,0.68,0.33,-8,0.34,0.42,256000,0.03,0.05,67
+44,45,Love Really Hurts Without You,Billy Ocean,dance rock,2016,141,0.9,0.52,-4,0.1,0.96,179000,0.0,0.03,66
+45,46,Your Song,Elton John,glam rock,1990,128,0.33,0.55,-11,0.11,0.3,241000,0.78,0.03,66
+46,47,Here You Come Again,Dolly Parton,classic country pop,1977,106,0.51,0.53,-9,0.04,0.56,179000,0.65,0.04,66
+47,48,Move On Up,Curtis Mayfield,chicago soul,1970,139,0.97,0.54,-6,0.12,0.93,166000,0.42,0.09,66
+48,49,Waterloo,ABBA,europop,1974,148,0.95,0.45,-5,0.09,0.65,169000,0.4,0.05,66
+49,50,A Song for You,Donny Hathaway,chicago soul,1971,88,0.22,0.32,-13,0.25,0.07,326000,0.82,0.04,65
+50,51,"Evergreen (Love Theme from, ""A Star Is Born"")",Barbra Streisand,adult standards,1976,114,0.3,0.34,-11,0.09,0.19,185000,0.93,0.03,65
+51,52,Dancing Queen,ABBA,europop,2008,101,0.93,0.51,-4,0.56,0.68,231000,0.17,0.05,65
+52,53,Can't You See,The Marshall Tucker Band,album rock,1973,164,0.71,0.41,-5,0.11,0.58,365000,0.28,0.03,65
+53,54,Won't Get Fooled Again - Original Album Version,The Who,album rock,1971,135,0.92,0.69,-6,0.08,0.23,511000,0.3,0.06,65
+54,55,Bennie And The Jets - Remastered 2014,Elton John,glam rock,1973,133,0.67,0.67,-8,0.5,0.78,323000,0.26,0.05,65
+55,56,Sunny,Boney M.,disco,1976,122,0.87,0.65,-6,0.13,0.8,242000,0.09,0.11,64
+56,57,It's A Shame,The Spinners,classic soul,1970,199,0.64,0.37,-12,0.12,0.71,190000,0.09,0.06,64
+57,58,Voulez-Vous,ABBA,europop,1979,127,0.77,0.71,-7,0.17,0.9,309000,0.15,0.04,63
+58,59,Goodbye Yellow Brick Road - Remastered 2014,Elton John,glam rock,1973,121,0.47,0.56,-8,0.15,0.4,193000,0.45,0.03,63
+59,60,Since You Been Gone,Rainbow,album rock,1997,121,0.6,0.73,-10,0.6,0.94,198000,0.37,0.04,63
+60,61,Sorry Seems To Be The Hardest Word,Elton John,glam rock,1976,118,0.22,0.37,-13,0.2,0.11,229000,0.83,0.03,62
+61,62,You To Me Are Everything,The Real Thing,brit funk,1999,102,0.91,0.64,-8,0.08,0.82,210000,0.23,0.1,62
+62,63,Please Mr. Postman,Carpenters,adult standards,1975,133,0.55,0.66,-12,0.24,0.96,173000,0.14,0.03,62
+63,64,Stumblin' In - 2017 Remaster,Suzi Quatro,classic uk pop,1978,129,0.72,0.76,-11,0.35,0.92,240000,0.13,0.03,61
+64,65,Lady Writer,Dire Straits,album rock,1979,148,0.81,0.63,-9,0.07,0.96,225000,0.1,0.03,61
+65,66,Knowing Me Knowing You,ABBA,europop,1976,107,0.73,0.55,-7,0.24,0.91,242000,0.04,0.03,61
+66,67,Ophelia - Remastered 2000,The Band,album rock,1975,92,0.68,0.83,-7,0.33,0.95,213000,0.68,0.03,61
+67,68,I Will Survive - Extended Version,Gloria Gaynor,disco,2019,116,0.85,0.76,-5,0.27,0.59,197000,0.06,0.05,61
+68,69,Sweet Virginia,The Rolling Stones,album rock,1972,107,0.74,0.48,-5,0.26,0.56,267000,0.5,0.04,60
+69,70,The Way We Were,Barbra Streisand,adult standards,1974,138,0.32,0.26,-12,0.13,0.17,211000,0.89,0.03,60
+70,71,September Earth, Wind & Fire,disco,2014,126,0.83,0.69,-7,0.25,0.98,215000,0.17,0.03,60
+71,72,Doctor Doctor - 2007 Remaster,UFO,album rock,1974,143,0.8,0.3,-7,0.5,0.56,252000,0.0,0.05,60
+72,73,Ain't No Mountain High Enough,Diana Ross,adult standards,2017,99,0.79,0.39,-5,0.38,0.38,215000,0.19,0.04,60
+73,74,Baby Come Back,Player,soft rock,2007,157,0.57,0.65,-11,0.12,0.56,214000,0.05,0.11,59
+74,75,Boulder to Birmingham - Remastered,Emmylou Harris,country rock,1975,126,0.32,0.48,-11,0.1,0.31,213000,0.78,0.03,59
+75,76,S.O.S.,ABBA,europop,1975,125,0.71,0.42,-6,0.29,0.58,202000,0.25,0.03,59
+76,77,Now That We Found Love,The O'Jays,classic soul,1973,114,0.65,0.72,-8,0.27,0.96,281000,0.25,0.04,59
+77,78,Fire on the Mountain,The Marshall Tucker Band,album rock,1975,102,0.83,0.51,-6,0.16,0.57,236000,0.11,0.04,58
+78,79,Lost in Music,Sister Sledge,dance pop,1979,114,0.84,0.76,-8,0.1,0.85,287000,0.05,0.03,58
+79,80,You Make Me Feel Like Dancing,Leo Sayer,adult standards,1976,96,0.73,0.73,-5,0.11,0.71,221000,0.08,0.05,57
+80,81,The Boss,Diana Ross,adult standards,1979,124,0.91,0.64,-4,0.21,0.83,241000,0.24,0.05,57
+81,82,Come and Get Your Love,Redbone,native american,2003,106,0.79,0.67,-6,0.08,0.85,300000,0.13,0.05,56
+82,83,Moviestar,Harpo,classic uk pop,1976,119,0.79,0.55,-8,0.33,0.71,202000,0.29,0.03,56
+83,84,Easy Livin',Uriah Heep,album rock,1972,161,0.84,0.26,-7,0.28,0.46,157000,0.0,0.1,56
+84,85,Three Times A Lady,Commodores,adult standards,2008,151,0.13,0.37,-17,0.14,0.2,215000,0.94,0.03,56
+85,86,Living Next Door to Alice,Smokie,classic uk pop,1975,126,0.4,0.59,-15,0.25,0.78,208000,0.11,0.04,56
+86,87,Dancing In The Moonlight,King Harvest,soft rock,1973,136,0.72,0.65,-5,0.41,0.68,178000,0.68,0.04,56
+87,88,You Are Everything,Diana Ross,adult standards,1973,150,0.53,0.52,-10,0.14,0.5,190000,0.03,0.05,56
+88,89,I Want You,Marvin Gaye,classic soul,1976,101,0.79,0.52,-10,0.24,0.74,274000,0.85,0.03,56
+89,90,Love Comes To Everyone - 2004 Mix,George Harrison,album rock,1979,107,0.68,0.72,-9,0.05,0.51,276000,0.07,0.04,55
+90,91,Rock Your Baby,George McCrae,disco,2001,104,0.77,0.59,-11,0.07,0.95,201000,0.31,0.04,55
+91,92,The Shape I'm In - Remastered 2000,The Band,album rock,1970,128,0.67,0.72,-8,0.3,0.96,241000,0.24,0.04,54
+92,93,Midnight Train to Georgia - Short Version,Gladys Knight & The Pips,adult standards,1973,177,0.42,0.44,-10,0.19,0.39,199000,0.07,0.08,53
+93,94,Daddy Cool,Boney M.,disco,1994,125,0.63,0.75,-12,0.23,0.96,206000,0.25,0.04,53
+94,95,Sad Eyes - Remastered,Robert John,soft rock,2002,107,0.46,0.43,-7,0.13,0.69,253000,0.6,0.03,53
+95,96,I Feel Love - Edit,Donna Summer,dance pop,2018,126,0.91,0.66,-9,0.08,0.94,227000,0.03,0.04,52
+96,97,Just Got Paid,ZZ Top,album rock,1972,100,0.69,0.57,-11,0.12,0.63,267000,0.29,0.04,52
+97,98,Killer Queen - 2011 Mix,Queen,glam rock,1974,117,0.65,0.54,-6,0.13,0.61,180000,0.39,0.05,51
+98,99,I'd Really Love to See You Tonight - 2012 Collection Remaster,England Dan,adult standards,2012,119,0.77,0.58,-5,0.17,0.67,158000,0.2,0.03,50
+99,100,I Got Lucky,Elvis Presley,adult standards,1971,93,0.39,0.73,-12,0.2,0.96,116000,0.84,0.04,49
+100,101,Baretta's Theme,Sammy Davis Jr.,adult standards,2002,105,0.91,0.64,-8,0.28,0.69,146000,0.35,0.06,48
+101,102,One of These Days,Emmylou Harris,country rock,1975,125,0.39,0.66,-9,0.12,0.68,184000,0.45,0.03,46
+102,103,My Heart Belongs to Me,Barbra Streisand,adult standards,1977,139,0.21,0.27,-16,0.18,0.3,201000,0.74,0.03,44
+103,104,Telegram Sam,T. Rex,album rock,1972,123,0.94,0.52,-4,0.09,0.44,226000,0.02,0.12,40
+0,1,Livin' On A Prayer,Bon Jovi,glam metal,1986,123,0.89,0.53,-4,0.29,0.8,249000,0.08,0.03,83
+1,2,Africa,TOTO,album rock,1982,93,0.37,0.67,-18,0.05,0.73,296000,0.26,0.03,83
+2,3,Another One Bites The Dust - Remastered 2011,Queen,glam rock,1980,110,0.53,0.93,-6,0.16,0.75,215000,0.11,0.16,82
+3,4,Break My Stride,Matthew Wilder,new wave pop,1983,110,0.59,0.92,-11,0.09,0.83,184000,0.2,0.06,81
+4,5,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,dance pop,1987,119,0.82,0.71,-9,0.09,0.87,291000,0.21,0.05,80
+5,6,Summer Of '69,Bryan Adams,album rock,1984,139,0.83,0.51,-6,0.07,0.77,216000,0.02,0.04,80
+6,7,You Give Love A Bad Name,Bon Jovi,glam metal,1986,123,0.96,0.54,-3,0.34,0.81,223000,0.07,0.05,80
+7,8,Everybody Wants To Rule The World,Tears For Fears,dance rock,1985,112,0.8,0.65,-12,0.1,0.54,251000,0.35,0.05,80
+8,9,I'm Still Standing,Elton John,glam rock,1983,177,0.9,0.5,-7,0.14,0.77,183000,0.36,0.18,79
+9,10,Last Christmas,Wham!,dance rock,2019,108,0.58,0.74,-9,0.18,0.94,265000,0.19,0.03,78
+10,11,Uptown Girl,Billy Joel,album rock,1983,129,0.94,0.7,-3,0.6,0.79,198000,0.07,0.05,77
+11,12,Radio Ga Ga - 2011 Mix,Queen,glam rock,1984,112,0.5,0.74,-8,0.19,0.66,348000,0.18,0.04,76
+12,13,Heaven,Bryan Adams,album rock,1984,140,0.59,0.38,-7,0.12,0.34,243000,0.05,0.03,76
+13,14,9 to 5,Dolly Parton,classic country pop,1980,105,0.78,0.55,-6,0.63,0.81,162000,0.42,0.05,76
+14,15,Eye of the Tiger,Survivor,album rock,1985,109,0.6,0.82,-9,0.09,0.55,246000,0.13,0.03,76
+15,16,Right Here Waiting,Richard Marx,mellow gold,1989,178,0.25,0.4,-14,0.1,0.13,264000,0.8,0.03,75
+16,17,Listen to Your Heart,Roxette,europop,1988,86,0.58,0.54,-5,0.11,0.34,328000,0.11,0.03,75
+17,18,Born in the U.S.A.,Bruce Springsteen,classic rock,1984,122,0.95,0.4,-6,0.1,0.58,279000,0.0,0.06,75
+18,19,Pour Some Sugar On Me - Remastered 2017,Def Leppard,album rock,1987,85,0.95,0.27,-5,0.28,0.57,267000,0.0,0.1,74
+19,20,Against All Odds (Take a Look at Me Now) - 2016 Remaster,Phil Collins,mellow gold,2016,116,0.5,0.58,-7,0.13,0.11,206000,0.2,0.03,74
+20,21,Maniac,Michael Sembello,hi-nrg,1983,159,0.53,0.62,-12,0.04,0.84,245000,0.09,0.07,73
+21,22,Hungry Eyes,Eric Carmen,adult standards,1997,110,0.55,0.71,-9,0.12,0.55,251000,0.01,0.03,73
+22,23,Panama - 2015 Remaster,Van Halen,album rock,1984,141,0.98,0.53,-5,0.07,0.46,210000,0.0,0.11,73
+23,24,Forever Young,Alphaville,dance rock,1984,137,0.48,0.49,-9,0.24,0.33,227000,0.42,0.03,73
+24,25,I Love Rock 'N Roll,Joan Jett & The Blackhearts,glam punk,1981,94,0.72,0.54,-5,0.66,0.9,175000,0.33,0.04,72
+25,26,Sacrifice,Elton John,glam rock,1989,113,0.42,0.76,-13,0.04,0.49,304000,0.02,0.03,72
+26,27,Material Girl,Madonna,dance pop,2009,137,0.88,0.74,-3,0.1,0.98,240000,0.33,0.03,72
+27,28,The Winner Takes It All,ABBA,europop,1980,126,0.79,0.45,-7,0.09,0.52,295000,0.57,0.04,72
+28,29,Smalltown Boy,Bronski Beat,dance rock,1984,135,0.58,0.69,-11,0.12,0.94,302000,0.29,0.03,71
+29,30,The Best - Edit,Tina Turner,disco,1991,104,0.83,0.68,-6,0.21,0.82,250000,0.01,0.03,71
+30,31,(I Just) Died In Your Arms,Cutting Crew,album rock,1986,125,0.73,0.63,-11,0.06,0.51,280000,0.02,0.04,71
+31,32,Brothers In Arms,Dire Straits,album rock,1985,79,0.3,0.41,-14,0.18,0.14,424000,0.53,0.03,71
+32,33,Glory of Love,Peter Cetera,adult standards,1986,145,0.59,0.52,-8,0.31,0.31,258000,0.08,0.03,71
+33,34,Super Trouper,ABBA,europop,1980,118,0.63,0.76,-8,0.2,0.96,253000,0.46,0.03,70
+34,35,Flashdance...What a Feeling - Radio Edit,Irene Cara,dance rock,1983,122,0.65,0.57,-7,0.09,0.4,237000,0.01,0.03,70
+35,36,Every Time You Go Away - Radio Edit,Paul Young,album rock,1991,164,0.72,0.57,-9,0.22,0.84,267000,0.19,0.04,70
+36,37,Self Control,Laura Branigan,dance rock,1984,107,0.69,0.81,-12,0.16,0.78,246000,0.22,0.03,70
+37,38,Say You Say Me,Lionel Richie,adult standards,1986,128,0.41,0.64,-11,0.08,0.26,241000,0.36,0.03,70
+38,39,Heaven Is a Place on Earth,Belinda Carlisle,dance pop,2013,123,0.85,0.64,-8,0.05,0.79,247000,0.02,0.03,70
+39,40,I Want To Break Free - Remastered 2011,Queen,glam rock,1984,109,0.41,0.88,-11,0.12,0.78,199000,0.08,0.04,70
+40,41,Arthur's Theme (Best That You Can Do),Christopher Cross,adult standards,1981,137,0.52,0.53,-11,0.18,0.52,234000,0.17,0.04,70
+41,42,Carrie,Europe,album rock,1986,137,0.49,0.46,-7,0.36,0.14,272000,0.11,0.03,70
+43,44,Stuck On You,Lionel Richie,adult standards,1983,132,0.32,0.51,-16,0.09,0.25,192000,0.62,0.03,69
+44,45,Hurts So Good,John Mellencamp,album rock,1982,125,0.74,0.79,-5,0.11,0.97,219000,0.04,0.04,69
+45,46,How Am I Supposed to Live Without You,Michael Bolton,adult standards,1989,140,0.44,0.54,-12,0.11,0.23,256000,0.19,0.03,69
+46,47,Hysteria,Def Leppard,album rock,1987,107,0.85,0.66,-6,0.2,0.66,355000,0.03,0.03,68
+47,48,Nikita,Elton John,glam rock,1985,87,0.66,0.63,-9,0.07,0.75,343000,0.12,0.03,68
+48,49,Dancing With Myself,Billy Idol,album rock,1985,177,0.7,0.51,-11,0.3,0.91,360000,0.02,0.08,68
+49,50,I'll Be Over You,TOTO,album rock,1986,82,0.28,0.52,-18,0.26,0.41,230000,0.06,0.03,68
+50,51,Kids In America,Kim Wilde,dance pop,1981,160,0.78,0.56,-4,0.12,0.31,206000,0.1,0.05,68
+51,52,St. Elmos Fire (Man in Motion),John Parr,album rock,1985,111,0.6,0.61,-11,0.22,0.47,252000,0.15,0.03,68
+52,53,One More Night - 2016 Remaster,Phil Collins,mellow gold,1985,136,0.44,0.53,-9,0.1,0.34,289000,0.79,0.03,68
+53,54,Come On Eileen,Dexys Midnight Runners,bow pop,2009,107,0.87,0.41,-4,0.08,0.82,206000,0.2,0.09,68
+54,55,Where Do Broken Hearts Go,Whitney Houston,dance pop,1987,62,0.39,0.46,-12,0.07,0.25,278000,0.63,0.03,67
+55,56,Guilty (feat. Barry Gibb),Barbra Streisand,adult standards,1980,151,0.43,0.63,-16,0.11,0.95,264000,0.23,0.04,67
+56,57,Brother Louie,Modern Talking,eurodance,1986,109,0.84,0.78,-9,0.14,0.83,223000,0.4,0.05,67
+57,58,Running Up That Hill (A Deal With God),Kate Bush,art pop,1985,108,0.55,0.63,-13,0.06,0.2,299000,0.72,0.06,67
+58,59,End Of The Line,Traveling Wilburys,album rock,1988,167,0.84,0.58,-7,0.06,0.93,210000,0.16,0.05,67
+59,60,Every Breath You Take,The Police,album rock,2017,117,0.48,0.82,-9,0.08,0.72,252000,0.56,0.03,67
+60,61,"Up Where We Belong - From ""An Officer And A Gentleman""",Joe Cocker,album rock,2000,140,0.31,0.63,-12,0.07,0.24,233000,0.61,0.03,67
+61,62,Woman in Love,Barbra Streisand,adult standards,1980,170,0.28,0.47,-16,0.13,0.33,232000,0.25,0.03,67
+62,63,Cheri Cheri Lady,Modern Talking,eurodance,1985,114,0.62,0.68,-14,0.35,0.85,226000,0.46,0.03,66
+63,64,Higher Love - Single Version,Steve Winwood,album rock,2007,99,0.89,0.7,-7,0.5,0.92,252000,0.06,0.04,66
+64,65,That's What Friends Are For,Dionne Warwick,adult standards,1985,120,0.24,0.68,-16,0.07,0.17,256000,0.51,0.03,66
+65,66,Gloria,Laura Branigan,dance rock,1995,131,0.87,0.78,-4,0.15,0.88,295000,0.14,0.03,66
+66,67,Slave To Love,Bryan Ferry,album rock,1985,148,0.82,0.66,-6,0.05,0.79,266000,0.18,0.03,66
+67,68,Now And Forever,Richard Marx,mellow gold,1994,78,0.26,0.44,-11,0.11,0.17,215000,0.66,0.03,65
+68,69,Big in Japan,Alphaville,dance rock,1984,98,0.41,0.75,-15,0.34,0.24,286000,0.07,0.04,65
+69,70,Only You,Yazoo,dance rock,1982,106,0.31,0.75,-17,0.08,0.85,194000,0.33,0.04,65
+70,71,Valerie,Steve Winwood,album rock,1982,116,0.53,0.72,-11,0.08,0.73,247000,0.57,0.03,65
+71,72,Blue Monday '88,New Order,alternative rock,1994,130,0.89,0.68,-8,0.06,0.95,245000,0.0,0.04,65
+72,73,Gold,Spandau Ballet,dance rock,2000,143,0.74,0.71,-8,0.1,0.64,231000,0.26,0.04,65
+73,74,Nothing's Gonna Change My Love For You,Glenn Medeiros,soft rock,1986,142,0.43,0.45,-13,0.06,0.39,232000,0.57,0.04,64
+74,75,Sledgehammer,Peter Gabriel,album rock,1986,96,0.69,0.66,-5,0.04,0.42,314000,0.02,0.03,64
+75,76,Rhythm Of The Night,DeBarge,disco,1985,115,0.76,0.71,-12,0.08,0.96,229000,0.08,0.05,64
+76,77,Jessie's Girl,Rick Springfield,album rock,1981,132,0.59,0.72,-14,0.1,0.85,194000,0.33,0.05,64
+77,78,It's Raining Men,The Weather Girls,disco,1996,136,0.93,0.68,-6,0.7,0.61,211000,0.32,0.12,64
+78,79,Sunshine Reggae,Laid Back,classic danish pop,2008,168,0.79,0.7,-6,0.08,0.93,258000,0.1,0.04,64
+79,80,Wonderful Life,Black,dance rock,1987,106,0.52,0.72,-12,0.21,0.82,288000,0.71,0.03,64
+80,81,The Riddle,Nik Kershaw,dance rock,1984,102,0.66,0.58,-8,0.14,0.9,235000,0.12,0.03,63
+81,82,Papa Don't Preach,Madonna,dance pop,1986,122,0.91,0.81,-9,0.02,0.97,345000,0.31,0.04,63
+82,83,Didn't We Almost Have It All,Whitney Houston,dance pop,1987,131,0.49,0.54,-10,0.14,0.34,305000,0.42,0.03,63
+83,84,All Right,Christopher Cross,adult standards,1983,133,0.65,0.71,-5,0.23,0.5,254000,0.17,0.04,63
+84,85,Biggest Part of Me,Ambrosia,adult standards,1980,153,0.72,0.5,-8,0.35,0.88,324000,0.24,0.05,63
+85,86,Save a Prayer - 2009 Remaster,Duran Duran,dance rock,1982,114,0.71,0.57,-9,0.16,0.67,333000,0.35,0.03,62
+86,87,Baby Come To Me,Patti Austin,adult standards,1981,90,0.5,0.63,-12,0.14,0.7,215000,0.55,0.08,62
+87,88,Fame - Rerecorded,Irene Cara,dance rock,2018,131,0.8,0.71,-7,0.08,0.94,319000,0.07,0.03,62
+88,89,Hard Habit to Break - 2006 Remaster,Chicago,adult standards,1984,81,0.61,0.58,-6,0.17,0.4,284000,0.45,0.03,61
+89,90,Rock You Like a Hurricane,Scorpions,album rock,2017,124,0.83,0.58,-6,0.32,0.67,254000,0.0,0.04,61
+90,91,When the Children Cry,White Lion,album rock,1987,130,0.24,0.49,-14,0.07,0.38,259000,0.67,0.03,61
+91,92,Is This Love - 2017 Remaster,Whitesnake,album rock,1987,180,0.79,0.33,-7,0.12,0.53,285000,0.11,0.04,60
+92,93,I Knew You Were Waiting (For Me),George Michael,new wave pop,1986,108,0.68,0.73,-11,0.31,0.68,242000,0.27,0.04,60
+93,94,You Keep Me Hangin On,Kim Wilde,dance pop,1986,123,0.68,0.69,-12,0.14,0.71,255000,0.08,0.03,60
+94,95,Dancing with Tears in My Eyes,Ultravox,art rock,1984,144,0.91,0.59,-8,0.6,0.93,244000,0.15,0.04,59
+95,96,In The Army Now,Status Quo,album rock,2002,105,0.73,0.68,-8,0.14,0.94,281000,0.11,0.02,59
+96,97,Here I Go Again - 2017 Remaster,Whitesnake,album rock,1987,90,0.85,0.38,-6,0.09,0.27,276000,0.15,0.04,58
+97,98,Holiday,Madonna,dance pop,1983,118,0.7,0.81,-9,0.05,0.73,232000,0.03,0.05,58
+98,99,I Think We're Alone Now,Tiffany,new wave pop,2008,130,0.89,0.65,-5,0.09,0.7,227000,0.0,0.04,58
+99,100,"Crockett's Theme - From ""Miami Vice II"" Soundtrack",Jan Hammer,jazz fusion,1991,191,0.39,0.41,-17,0.1,0.4,215000,0.42,0.03,58
+100,101,Cold as Ice - 2008 Remaster,Foreigner,album rock,2008,131,0.71,0.55,-5,0.14,0.51,200000,0.06,0.03,57
+101,102,Zulu Nation Throw Down,Afrika Bambaataa,bronx hip hop,2015,108,0.95,0.85,-4,0.1,0.91,433000,0.76,0.19,50
+102,103,It's Only Love - 2008 Remaster,Simply Red,british soul,2008,92,0.88,0.67,-5,0.04,0.75,299000,0.51,0.04,50
+103,104,Lucky Star,Madonna,dance pop,1983,117,0.81,0.8,-5,0.22,0.93,338000,0.2,0.04,46
+104,105,Romeo - 2014 Remaster,Donna Summer,dance pop,1996,141,0.85,0.85,-8,0.11,0.96,199000,0.03,0.04,43
+0,1,No Scrubs,TLC,atl hip hop,1999,93,0.68,0.74,-4,0.07,0.59,214000,0.03,0.1,79
+1,2,I Want It That Way,Backstreet Boys,boy band,2001,99,0.7,0.69,-6,0.16,0.48,214000,0.22,0.03,76
+2,3,It Wasn't Me,Shaggy,dance pop,2000,95,0.61,0.85,-5,0.31,0.65,228000,0.06,0.07,76
+3,4,"Because You Loved Me (Theme from ""Up Close and Personal"")",CÃ©line Dion,canadian pop,1996,120,0.47,0.61,-10,0.1,0.18,274000,0.31,0.03,74
+4,5,Big Poppa - 2005 Remaster,The Notorious B.I.G.,east coast hip hop,1994,84,0.58,0.78,-7,0.14,0.76,253000,0.43,0.27,74
+5,6,I Got 5 On It,Luniz,g funk,1995,174,0.71,0.6,-8,0.13,0.58,254000,0.21,0.36,73
+6,7,Boom Boom Boom Boom!!,Vengaboys,bubblegum dance,2000,138,0.89,0.8,-7,0.03,0.97,202000,0.01,0.04,73
+7,8,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,boy band,1997,108,0.85,0.73,-4,0.27,0.61,225000,0.04,0.04,73
+8,9,Bed Of Roses,Bon Jovi,glam metal,1992,165,0.6,0.31,-6,0.21,0.16,394000,0.1,0.03,73
+9,10,Don't Look Back in Anger - Remastered,Oasis,britpop,1995,163,0.94,0.33,-3,0.15,0.33,290000,0.07,0.06,73
+10,11,Always Be My Baby,Mariah Carey,dance pop,1995,79,0.53,0.65,-8,0.25,0.49,258000,0.46,0.04,73
+11,12,Angels,Robbie Williams,dance pop,1997,150,0.59,0.43,-6,0.1,0.24,265000,0.16,0.03,73
+12,13,Return of the Mack,Mark Morrison,british soul,1996,95,0.83,0.72,-5,0.16,0.61,213000,0.01,0.11,72
+13,14,Pony,Ginuwine,dance pop,1999,142,0.61,0.75,-9,0.12,0.97,252000,0.0,0.09,72
+14,15,Freed From Desire,Gala,eurodance,2007,129,0.86,0.7,-4,0.1,0.64,213000,0.59,0.05,71
+15,16,Better Off Alone,Alice DJ,europop,2000,137,0.82,0.67,-9,0.29,0.76,218000,0.0,0.06,71
+16,17,Hero,Mariah Carey,dance pop,1993,120,0.38,0.5,-9,0.12,0.18,258000,0.74,0.03,71
+17,18,End Of The Road,Boyz II Men,boy band,1991,150,0.43,0.64,-9,0.06,0.53,351000,0.07,0.02,71
+18,19,I'll Be Missing You (feat. 112),Diddy,dance pop,2004,110,0.48,0.86,-9,0.59,0.93,302000,0.05,0.06,71
+19,20,Forgot About Dre,Dr. Dre,g funk,1999,134,0.74,0.92,-1,0.16,0.62,222000,0.08,0.08,71
+20,21,Fantasy,Mariah Carey,dance pop,1995,102,0.73,0.67,-8,0.12,0.8,243000,0.14,0.04,70
+21,22,Sandstorm,Darude,eurodance,2000,136,0.97,0.53,-8,0.08,0.59,225000,0.14,0.05,70
+22,23,Who Am I (What's My Name)?,Snoop Dogg,g funk,1993,97,0.83,0.69,-4,0.52,0.69,246000,0.0,0.05,70
+23,24,Mr. Vain - Original Radio Edit,Culture Beat,bubblegum dance,1993,133,1.0,0.7,-8,0.12,0.39,257000,0.07,0.04,69
+24,25,Spending My Time,Roxette,europop,1991,171,0.57,0.42,-5,0.13,0.22,276000,0.24,0.03,69
+25,26,Let's Get Loud,Jennifer Lopez,dance pop,1999,131,0.94,0.82,-5,0.35,0.91,239000,0.14,0.06,69
+26,27,The Rhythm of the Night,Corona,bubblegum dance,1994,128,0.81,0.69,-12,0.1,0.8,264000,0.0,0.03,69
+27,28,The Power of Love,CÃ©line Dion,canadian pop,1993,140,0.52,0.55,-9,0.24,0.25,342000,0.36,0.03,68
+28,29,Narcotic - Radio Edit,Liquido,german alternative rock,1998,102,0.61,0.62,-7,0.09,0.45,236000,0.0,0.02,68
+29,30,Miami,Will Smith,hip hop,1997,108,0.53,0.88,-6,0.04,0.89,198000,0.03,0.15,68
+30,31,Hypnotize - 2007 Remaster,The Notorious B.I.G.,east coast hip hop,2007,94,0.69,0.9,-4,0.29,0.63,230000,0.18,0.28,68
+31,32,3AM,Matchbox Twenty,neo mellow,1996,108,0.67,0.52,-9,0.12,0.54,226000,0.01,0.03,68
+32,33,High,Lighthouse Family,europop,1997,102,0.63,0.66,-9,0.13,0.59,308000,0.11,0.03,68
+33,34,L'Amour Toujours,Gigi D'Agostino,eurodance,2011,139,0.73,0.62,-8,0.36,0.81,239000,0.03,0.03,67
+34,35,"Rhythm Is A Dancer - 7"" Edit",SNAP!,diva house,1992,124,0.75,0.79,-11,0.14,0.71,226000,0.27,0.04,67
+35,36,Say My Name,Destiny's Child,dance pop,1999,67,0.68,0.52,-4,0.13,0.75,271000,0.27,0.16,67
+36,37,Heal the World,Michael Jackson,pop,1991,81,0.49,0.53,-8,0.1,0.1,384000,0.54,0.05,67
+37,38,The Boy Is Mine,Brandy,dance pop,1998,93,0.71,0.7,-7,0.32,0.76,295000,0.54,0.04,66
+38,39,Weak,SWV,dance pop,1992,128,0.53,0.69,-11,0.07,0.57,292000,0.11,0.04,66
+39,40,Walking in Memphis,Cher,dance pop,1995,129,0.68,0.7,-7,0.17,0.53,235000,0.59,0.03,66
+40,41,Angel of Mine - Radio Mix,Monica,dance pop,1998,90,0.56,0.59,-7,0.22,0.21,250000,0.0,0.02,66
+41,42,Picture Of You,Boyzone,boy band,1997,117,0.92,0.76,-6,0.37,0.88,206000,0.1,0.04,65
+42,43,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",CÃ©line Dion,canadian pop,1992,77,0.4,0.46,-10,0.13,0.12,249000,0.64,0.03,65
+43,44,Run To You,Bryan Adams,album rock,1984,127,0.81,0.56,-6,0.29,0.64,233000,0.01,0.03,65
+44,45,No Matter What,Boyzone,boy band,1998,93,0.42,0.7,-9,0.14,0.53,274000,0.19,0.02,65
+45,46,Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio,Eiffel 65,bubblegum dance,1998,128,0.97,0.82,-11,0.39,0.77,284000,0.26,0.06,64
+46,47,Dreams,Gabrielle,british soul,1993,99,0.47,0.75,-14,0.22,0.57,223000,0.17,0.04,64
+47,48,Fading Like a Flower (Every Time You Leave),Roxette,europop,1991,105,0.67,0.61,-6,0.22,0.32,231000,0.2,0.03,64
+48,49,It's Not Right But It's Okay,Whitney Houston,dance pop,1998,128,0.8,0.81,-7,0.07,0.53,292000,0.16,0.1,64
+49,50,Stay Another Day,East 17,boy band,1994,128,0.49,0.52,-8,0.19,0.44,267000,0.58,0.03,63
+50,51,A Whole New World (Aladdin's Theme),Peabo Bryson,adult standards,1993,108,0.32,0.52,-10,0.14,0.13,243000,0.63,0.03,63
+51,52,Encore Une Fois - Future Breeze Edit,Sash!,bubblegum dance,1997,133,0.93,0.66,-7,0.19,0.84,221000,0.01,0.04,62
+52,53,Incomplete,Sisqo,dance pop,1999,119,0.44,0.75,-8,0.14,0.27,274000,0.28,0.08,62
+53,54,Sweet Dreams,La Bouche,bubblegum dance,2007,134,0.96,0.66,-6,0.09,0.83,205000,0.08,0.05,62
+54,55,Juicy - 2007 Remaster,The Notorious B.I.G.,east coast hip hop,2007,96,0.82,0.87,-5,0.15,0.79,301000,0.48,0.26,62
+55,56,Mysterious Girl - Radio Edit,Peter Andre,europop,2004,172,0.82,0.66,-6,0.3,0.86,217000,0.14,0.21,62
+56,57,It's Gonna Be Me,*NSYNC,boy band,2000,165,0.87,0.64,-5,0.06,0.88,191000,0.05,0.08,62
+57,58,I Have Nothing - Film Version,Whitney Houston,dance pop,2017,153,0.45,0.49,-9,0.09,0.17,296000,0.76,0.03,61
+60,61,Relight My Fire (feat. Lulu),Take That,boy band,1993,123,0.94,0.65,-7,0.1,0.93,252000,0.04,0.05,61
+61,62,Get A Way,Maxx,bubblegum dance,1994,133,0.86,0.85,-10,0.05,0.6,227000,0.03,0.04,60
+62,63,More And More - Single Version,Captain Hollywood Project,bubblegum dance,1993,126,0.85,0.66,-12,0.09,0.71,254000,0.23,0.03,60
+63,64,Free - Mood II Swing Radio Edit,Ultra NatÃ©,deep house,1997,125,0.92,0.76,-6,0.04,0.74,233000,0.0,0.04,60
+64,65,"Circle of Life - From ""The Lion King""/Soundtrack Version",Elton John,glam rock,1994,161,0.39,0.3,-15,0.11,0.14,292000,0.26,0.03,59
+65,66,Please Don't Go,Double You,eurodance,1992,120,0.84,0.71,-12,0.03,0.49,200000,0.06,0.04,59
+66,67,Piu bella cosa,Eros Ramazzotti,italian pop,2014,110,0.79,0.67,-5,0.11,0.62,265000,0.08,0.03,58
+67,68,When the Heartache Is Over,Tina Turner,disco,1999,115,0.77,0.69,-6,0.07,0.43,224000,0.01,0.03,58
+68,69,Bailando,Paradisio,bubblegum dance,1997,133,0.94,0.65,-9,0.12,0.84,229000,0.08,0.04,58
+69,70,Let There Be Love - 2002 Digital Remaster,Simple Minds,art rock,1991,88,0.88,0.49,-6,0.13,0.6,309000,0.08,0.04,57
+70,71,I Will Always Love You - Film Version,Whitney Houston,dance pop,2017,133,0.28,0.34,-10,0.1,0.12,275000,0.61,0.04,57
+71,72,I'll Be There,Mariah Carey,dance pop,1998,82,0.51,0.41,-10,0.93,0.3,264000,0.7,0.03,56
+72,73,Don't Stop,ATB,german dance,1999,134,0.94,0.71,-5,0.32,0.57,221000,0.15,0.04,56
+73,74,Das Boot,U96,bubble trance,1992,123,0.88,0.64,-8,0.25,0.33,314000,0.01,0.07,56
+74,75,Hold On My Heart - 2007 Digital Remaster,Genesis,album rock,1991,172,0.36,0.46,-13,0.07,0.27,278000,0.61,0.03,56
+75,76,Real Real Gone,Van Morrison,classic rock,1990,142,0.85,0.7,-7,0.19,0.95,221000,0.38,0.03,56
+76,77,King Of My Castle - Roy Malone's King Mix,Wamdue Project,disco house,2009,125,0.54,0.87,-9,0.06,0.76,299000,0.04,0.08,55
+77,78,Be With You,Enrique Iglesias,dance pop,1999,122,0.87,0.68,-5,0.05,0.54,219000,0.04,0.03,55
+79,80,Have You Ever - Radio Edit,Brandy,dance pop,2005,134,0.48,0.68,-7,0.3,0.23,215000,0.6,0.04,54
+80,81,Gangsta's Paradise,Coolio,g funk,1995,80,0.63,0.64,-6,0.4,0.42,242000,0.04,0.05,54
+81,82,Show Me Love,Robin S,disco house,2017,120,0.72,0.82,-6,0.08,0.56,254000,0.01,0.13,53
+82,83,When I Look Into Your Eyes,Firehouse,album rock,2010,147,0.61,0.39,-8,0.16,0.25,240000,0.0,0.03,53
+83,84,Insomnia - Radio Edit,Faithless,big beat,2010,127,0.92,0.71,-9,0.37,0.53,216000,0.06,0.04,50
+84,85,If You Ever,East 17,boy band,1996,140,0.68,0.58,-9,0.31,0.57,255000,0.18,0.03,48
+85,86,Pump Up The Jam,Technotronic,eurodance,2019,125,0.84,0.89,-9,0.05,0.72,320000,0.01,0.07,46
+86,87,Doin' It,LL Cool J,east coast hip hop,1996,95,0.53,0.81,-12,0.12,0.62,294000,0.34,0.19,46
+87,88,Please Forgive Me,Bryan Adams,album rock,2005,67,0.46,0.53,-7,0.1,0.15,356000,0.5,0.03,43
+0,1,In the End,Linkin Park,alternative metal,2000,105,0.86,0.56,-6,0.21,0.4,217000,0.01,0.06,83
+1,2,The Scientist,Coldplay,permanent wave,2002,146,0.44,0.56,-7,0.11,0.21,310000,0.73,0.02,83
+2,3,Numb,Linkin Park,alternative metal,2003,110,0.86,0.5,-4,0.64,0.24,186000,0.0,0.04,81
+3,4,Fix You,Coldplay,permanent wave,2005,138,0.42,0.21,-9,0.11,0.12,296000,0.16,0.03,81
+4,5,Umbrella,Rihanna,barbadian pop,2008,174,0.83,0.58,-5,0.04,0.57,276000,0.01,0.13,80
+5,6,Stronger,Kanye West,chicago rap,2007,104,0.72,0.62,-8,0.41,0.49,312000,0.01,0.15,80
+6,7,The Real Slim Shady,Eminem,detroit hip hop,2000,105,0.66,0.95,-4,0.05,0.76,284000,0.03,0.06,80
+7,8,Low (feat. T-Pain),Flo Rida,dance pop,2008,128,0.61,0.92,-6,0.14,0.3,231000,0.09,0.08,79
+8,9,American Boy,Estelle,r&b,2008,118,0.73,0.73,-3,0.07,0.51,285000,0.17,0.33,79
+9,10,Yeah! (feat. Lil Jon & Ludacris),Usher,atl hip hop,2004,105,0.79,0.89,-5,0.04,0.58,250000,0.02,0.11,79
+10,11,Hall of Fame,The Script,celtic rock,2012,85,0.87,0.42,-4,0.12,0.63,203000,0.07,0.06,78
+11,12,Party In The U.S.A.,Miley Cyrus,dance pop,2009,96,0.7,0.65,-5,0.09,0.47,202000,0.0,0.04,78
+12,13,Candy Shop,50 Cent,east coast hip hop,2005,125,0.57,0.61,-8,0.38,0.76,209000,0.03,0.47,78
+13,14,Fireflies,Owl City,pop,2009,180,0.66,0.51,-7,0.12,0.46,228000,0.03,0.04,78
+14,15,Dynamite,Taio Cruz,dance pop,2010,120,0.78,0.75,-4,0.04,0.82,203000,0.0,0.09,77
+15,16,So Sick,Ne-Yo,dance pop,2006,93,0.57,0.45,-8,0.19,0.58,207000,0.25,0.31,77
+16,17,Take A Bow,Rihanna,barbadian pop,2008,82,0.47,0.7,-8,0.09,0.57,229000,0.25,0.07,77
+17,18,Dilemma,Nelly,dance pop,2002,168,0.55,0.73,-8,0.2,0.61,289000,0.23,0.14,77
+18,19,I Gotta Feeling,The Black Eyed Peas,dance pop,2009,128,0.77,0.74,-6,0.51,0.61,289000,0.09,0.03,77
+19,20,Halo,BeyoncÃ©,dance pop,2008,80,0.72,0.51,-6,0.06,0.47,262000,0.27,0.06,77
+20,21,In Da Club,50 Cent,east coast hip hop,2003,90,0.71,0.9,-3,0.07,0.78,193000,0.26,0.37,77
+21,22,Just the Way You Are,Bruno Mars,pop,2010,109,0.84,0.64,-5,0.09,0.43,221000,0.02,0.04,77
+22,23,Crank That (Soulja Boy),Soulja Boy,atl hip hop,2007,140,0.74,0.74,-2,0.05,0.8,222000,0.52,0.08,76
+23,24,Gasolina,Daddy Yankee,latin,2004,96,0.8,0.86,-6,0.08,0.75,193000,0.33,0.06,76
+24,25,Let Me Love You,Mario,dance pop,2004,95,0.58,0.66,-9,0.12,0.56,257000,0.24,0.09,76
+25,26,Don't Stop The Music,Rihanna,barbadian pop,2008,123,0.67,0.84,-6,0.05,0.54,267000,0.03,0.06,76
+26,27,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,detroit hip hop,2004,171,0.74,0.69,-5,0.34,0.06,322000,0.01,0.26,76
+27,28,I Knew You Were Trouble.,Taylor Swift,dance pop,2012,77,0.47,0.62,-7,0.03,0.68,220000,0.0,0.04,75
+28,29,Temperature,Sean Paul,dance pop,2005,125,0.6,0.95,-5,0.07,0.82,219000,0.11,0.07,75
+29,30,Empire State of Mind (Part II) Broken Down,Alicia Keys,hip pop,2009,93,0.37,0.48,-8,0.12,0.14,216000,0.74,0.03,75
+30,31,Where Is The Love?,The Black Eyed Peas,dance pop,2003,94,0.69,0.84,-3,0.13,0.83,273000,0.1,0.18,75
+31,32,Replay,Iyaz,dance pop,2009,91,0.75,0.71,-6,0.17,0.2,182000,0.17,0.07,74
+32,33,Live Your Life (feat. Rihanna),T.I.,atl hip hop,2008,160,0.86,0.38,-3,0.21,0.48,339000,0.07,0.26,74
+33,34,Grenade,Bruno Mars,pop,2010,110,0.56,0.71,-7,0.12,0.23,223000,0.15,0.06,74
+34,35,Last Friday Night (T.G.I.F.),Katy Perry,dance pop,2012,126,0.82,0.65,-4,0.67,0.77,231000,0.0,0.04,74
+35,36,Womanizer,Britney Spears,dance pop,2009,139,0.7,0.72,-5,0.09,0.24,224000,0.07,0.06,74
+36,37,You Found Me,The Fray,modern rock,2009,152,0.8,0.34,-5,0.14,0.4,242000,0.02,0.04,74
+37,38,One Tow Step (feat. Missy Elliot),Ciara,dance pop,2004,113,0.51,0.94,-11,0.04,0.84,204000,0.04,0.16,74
+38,39,Smack That,Akon,dance pop,2006,119,0.74,0.94,-5,0.09,0.93,212000,0.32,0.05,73
+39,40,Alors on danse,Stromae,belgian pop,2010,120,0.59,0.79,-9,0.07,0.71,206000,0.1,0.08,73
+40,41,No Air (feat. Chris Brown),Jordin Sparks,dance pop,2007,160,0.76,0.47,-5,0.06,0.33,264000,0.05,0.2,73
+41,42,We Are Never Ever Getting Back Together,Taylor Swift,dance pop,2012,86,0.68,0.63,-6,0.12,0.75,193000,0.01,0.09,73
+42,43,Love Story,Taylor Swift,dance pop,2008,119,0.74,0.62,-4,0.08,0.31,236000,0.13,0.03,73
+43,44,Pon de Replay,Rihanna,barbadian pop,2005,99,0.64,0.78,-8,0.1,0.5,247000,0.0,0.16,73
+44,45,A Milli,Lil Wayne,hip hop,2008,151,0.7,0.67,-9,0.19,0.77,222000,0.04,0.28,73
+45,46,U Remind Me,Usher,atl hip hop,2001,94,0.63,0.66,-5,0.25,0.73,267000,0.19,0.08,73
+46,47,Right Round,Flo Rida,dance pop,2009,125,0.67,0.72,-7,0.23,0.71,205000,0.01,0.06,72
+47,48,Because Of You,Ne-Yo,dance pop,2007,110,0.54,0.81,-6,0.1,0.83,267000,0.53,0.04,72
+48,49,Call on Me - Radio Mix,Eric Prydz,big room,2004,126,0.84,0.6,-7,0.84,0.45,171000,0.0,0.38,72
+49,50,Only Girl (In The World),Rihanna,barbadian pop,2010,126,0.72,0.79,-4,0.07,0.61,235000,0.13,0.04,72
+50,51,What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,bronx hip hop,2001,94,0.71,0.84,-5,0.11,0.92,267000,0.02,0.06,72
+51,52,Pump It,The Black Eyed Peas,dance pop,2005,154,0.93,0.65,-3,0.75,0.74,213000,0.01,0.18,72
+52,53,Break Your Heart,Taio Cruz,dance pop,2010,122,0.93,0.61,-4,0.09,0.57,202000,0.03,0.03,71
+53,54,Numb / Encore,JAY-Z,east coast hip hop,2004,107,0.8,0.69,-4,0.55,0.8,205000,0.06,0.16,71
+54,55,Hate That I Love You,Rihanna,barbadian pop,2008,94,0.73,0.64,-5,0.1,0.73,219000,0.32,0.09,71
+55,56,Lollipop,Lil Wayne,hip hop,2008,148,0.43,0.83,-9,0.14,0.45,299000,0.06,0.08,71
+56,57,Rockstar,Nickelback,alternative metal,2005,144,0.91,0.62,-3,0.34,0.69,252000,0.05,0.04,71
+57,58,I Wanna Love You,Akon,dance pop,2006,100,0.45,0.87,-9,0.31,0.35,247000,0.04,0.04,70
+58,59,Crush,David Archuleta,dance pop,2008,162,0.66,0.57,-5,0.07,0.49,214000,0.01,0.03,70
+59,60,Apologize,Timbaland,dance pop,2007,118,0.6,0.66,-6,0.1,0.08,184000,0.04,0.03,70
+60,61,7 Days,Craig David,british soul,2001,83,0.81,0.66,-7,0.1,0.89,235000,0.23,0.05,70
+61,62,Broken Strings,James Morrison,neo mellow,2008,112,0.72,0.57,-5,0.08,0.32,250000,0.01,0.03,70
+62,63,Bleeding Love,Leona Lewis,british soul,2007,104,0.65,0.64,-6,0.15,0.2,263000,0.19,0.04,70
+63,64,In My Head,Jason Derulo,dance pop,2010,110,0.75,0.76,-4,0.35,0.85,199000,0.03,0.03,69
+64,65,Ridin',Chamillionaire,dirty south rap,2005,143,0.8,0.79,-5,0.3,0.84,303000,0.19,0.1,69
+65,66,Hot N Cold,Katy Perry,dance pop,2008,132,0.84,0.71,-4,0.07,0.86,220000,0.0,0.04,69
+66,67,Breakeven,The Script,celtic rock,2008,94,0.7,0.63,-5,0.08,0.49,261000,0.14,0.02,68
+67,68,Snap Yo Fingers,Youngbloodz,atl hip hop,2006,82,0.76,0.84,-5,0.29,0.63,274000,0.01,0.23,68
+68,69,Boom Boom Pow,The Black Eyed Peas,dance pop,2009,130,0.86,0.87,-6,0.13,0.4,251000,0.13,0.07,68
+69,70,Lady - Hear Me Tonight,Modjo,disco house,2001,126,0.81,0.72,-6,0.06,0.87,307000,0.01,0.04,68
+70,71,Superstar,Jamelia,europop,2003,110,0.65,0.8,-7,0.04,0.82,215000,0.05,0.04,67
+71,72,Love Lockdown,Kanye West,chicago rap,2008,120,0.52,0.76,-8,0.11,0.11,270000,0.05,0.03,67
+72,73,The Tide Is High - Radio Mix,Atomic Kitten,bubblegum dance,2003,103,0.69,0.78,-3,0.03,0.64,205000,0.02,0.03,66
+73,74,Release Me,Agnes,dance pop,2009,128,0.92,0.62,-3,0.11,0.72,256000,0.01,0.03,65
+74,75,About You Now,Sugababes,bubblegum dance,2007,82,0.7,0.58,-6,0.49,0.59,212000,0.0,0.04,65
+75,76,Pjanoo - Radio Edit,Eric Prydz,big room,2008,126,0.87,0.6,-5,0.11,0.84,157000,0.0,0.03,65
+76,77,Let It Rock,Kevin Rudolf,dance pop,2008,113,0.78,0.61,-4,0.07,0.44,231000,0.0,0.04,65
+77,78,Everytime We Touch - Radio Edit,Cascada,bubblegum dance,2011,142,0.98,0.64,-5,0.37,0.49,199000,0.0,0.06,64
+78,79,Lean Back,Terror Squad,bronx hip hop,2004,127,0.92,0.8,-3,0.07,0.7,247000,0.11,0.47,64
+79,80,TiK ToK,Kesha,dance pop,2014,120,0.67,0.75,-7,0.28,0.63,200000,0.06,0.12,63
+80,81,All Rise,Blue,boy band,2001,98,0.74,0.72,-3,0.17,0.93,224000,0.12,0.03,63
+81,82,Fergalicious,Fergie,dance pop,2006,129,0.58,0.91,-8,0.13,0.83,292000,0.06,0.32,63
+82,83,Something,Lasgo,belgian dance,2001,140,0.98,0.64,-7,0.11,0.38,221000,0.03,0.04,63
+83,84,When Love Takes Over (feat. Kelly Rowland),David Guetta,dance pop,2009,130,0.86,0.66,-5,0.2,0.5,189000,0.01,0.03,63
+84,85,Anyone Of Us (Stupid Mistake),Gareth Gates,europop,2002,107,0.72,0.7,-6,0.08,0.65,228000,0.28,0.03,61
+85,86,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,dance pop,2006,100,0.42,0.62,-7,0.12,0.29,203000,0.29,0.02,61
+86,87,Thank God I Found You,Mariah Carey,dance pop,1999,130,0.53,0.47,-6,0.11,0.15,257000,0.59,0.03,61
+87,88,Sexy Bitch (feat. Akon) - Extended,David Guetta,dance pop,2009,130,0.3,0.96,-6,0.08,0.8,312000,0.02,0.13,60
+88,89,Cooler Than Me - Single Mix,Mike Posner,dance pop,2010,130,0.82,0.75,-5,0.69,0.65,213000,0.15,0.06,60
+89,90,Bump Bump Bump,B2K,boy band,2003,96,0.68,0.84,-6,0.05,0.89,283000,0.1,0.21,60
+90,91,Beautiful Girls,Sean Kingston,dance pop,2014,118,0.64,0.54,-7,0.24,0.75,242000,0.14,0.09,60
+91,92,I Know You Want Me (Calle Ocho),Pitbull,dance pop,2009,127,0.74,0.82,-6,0.24,0.8,237000,0.01,0.14,60
+92,93,Leave The World Behind - Radio Edit,Axwell,big room,2009,128,0.85,0.53,-8,0.32,0.28,162000,0.0,0.05,58
+93,94,DÃ©senchantÃ©e - Radio Edit,Kate Ryan,belgian pop,2008,140,0.94,0.52,-5,0.23,0.29,221000,0.17,0.07,57
+94,95,Moving too fast - Radio Edit,Artful Dodger,uk garage,2012,127,0.51,0.84,-11,0.03,0.52,238000,0.09,0.05,57
+95,96,I Know What You Want (feat. Flipmode Squad),Busta Rhymes,east coast hip hop,2002,86,0.75,0.56,-4,0.64,0.49,324000,0.01,0.32,56
+96,97,Knock You Down,Keri Hilson,dance pop,2009,155,0.88,0.59,-5,0.17,0.65,326000,0.01,0.16,56
+97,98,Dragostea Din Tei - Italian Version,O-Zone,bubblegum dance,2010,130,0.89,0.67,-6,0.1,0.8,215000,0.04,0.03,44
+98,99,What A Girl Wants - Eddie Arroyo Dance Radio Edit,Christina Aguilera,dance pop,1999,130,0.92,0.75,-7,0.07,0.66,244000,0.01,0.03,40
+99,100,Impossible - Main,Shontelle,barbadian pop,2019,90,0.57,0.59,-5,0.11,0.51,226000,0.44,0.04,32
+0,1,bad guy,Billie Eilish,electropop,2019,135,0.43,0.7,-11,0.1,0.56,194000,0.33,0.38,94
+1,2,7 rings,Ariana Grande,dance pop,2019,140,0.32,0.78,-11,0.09,0.33,179000,0.59,0.33,90
+2,3,Old Town Road - Remix,Lil Nas X,country rap,2019,136,0.62,0.88,-6,0.11,0.64,157000,0.05,0.1,89
+3,4,SeÃ±orita,Shawn Mendes,canadian pop,2019,117,0.55,0.76,-6,0.08,0.75,191000,0.04,0.03,88
+4,5,rockstar (feat. 21 Savage),Post Malone,dfw rap,2018,160,0.52,0.59,-6,0.13,0.13,218000,0.12,0.07,88
+5,6,SAD!,XXXTENTACION,emo rap,2018,75,0.61,0.74,-5,0.12,0.47,167000,0.26,0.14,87
+6,7,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,dfw rap,2019,90,0.52,0.76,-4,0.07,0.93,158000,0.53,0.06,86
+7,8,God's Plan,Drake,canadian hip hop,2018,77,0.45,0.75,-9,0.55,0.36,199000,0.03,0.11,85
+8,9,One Kiss (with Dua Lipa),Calvin Harris,dance pop,2018,124,0.86,0.79,-3,0.08,0.59,215000,0.04,0.11,85
+9,10,Thunder,Imagine Dragons,modern rock,2017,168,0.82,0.61,-5,0.15,0.29,187000,0.01,0.04,85
+10,11,I Fall Apart,Post Malone,dfw rap,2016,144,0.54,0.56,-5,0.2,0.29,223000,0.07,0.04,84
+11,12,HUMBLE.,Kendrick Lamar,conscious hip hop,2017,150,0.62,0.91,-7,0.1,0.42,177000,0.0,0.1,84
+12,13,Starboy,The Weeknd,canadian contemporary r&b,2016,186,0.59,0.68,-7,0.14,0.49,230000,0.14,0.28,84
+13,14,FRIENDS,Marshmello,brostep,2018,95,0.88,0.63,-2,0.13,0.53,203000,0.21,0.05,83
+14,15,Psycho (feat. Ty Dolla $ign),Post Malone,dfw rap,2018,140,0.56,0.75,-8,0.11,0.46,221000,0.55,0.11,83
+15,16,Congratulations,Post Malone,dfw rap,2016,123,0.8,0.63,-4,0.25,0.49,220000,0.22,0.04,83
+16,17,In My Feelings,Drake,canadian hip hop,2018,91,0.63,0.84,-6,0.4,0.35,218000,0.06,0.13,83
+17,18,The Hills,The Weeknd,canadian contemporary r&b,2015,113,0.56,0.58,-7,0.14,0.14,242000,0.07,0.05,83
+18,19,no tears left to cry,Ariana Grande,dance pop,2018,122,0.71,0.7,-6,0.29,0.35,206000,0.04,0.06,83
+19,20,Dancing On My Own,Calum Scott,pop,2018,113,0.17,0.68,-9,0.1,0.24,260000,0.84,0.03,83
+20,21,New Rules,Dua Lipa,dance pop,2017,116,0.7,0.76,-6,0.15,0.61,209000,0.0,0.07,83
+21,22,Treat You Better,Shawn Mendes,canadian pop,2017,83,0.82,0.44,-4,0.11,0.75,188000,0.11,0.34,83
+22,23,Something Just Like This,The Chainsmokers,electropop,2017,103,0.64,0.62,-7,0.16,0.45,247000,0.05,0.03,83
+23,24,Happier,Ed Sheeran,pop,2017,90,0.39,0.52,-7,0.14,0.24,208000,0.54,0.03,82
+24,25,Attention,Charlie Puth,dance pop,2018,100,0.61,0.78,-5,0.13,0.8,209000,0.11,0.05,82
+25,26,IDGAF,Dua Lipa,dance pop,2017,97,0.54,0.84,-6,0.08,0.51,218000,0.04,0.09,82
+26,27,There's Nothing Holdin' Me Back,Shawn Mendes,canadian pop,2017,122,0.81,0.87,-4,0.08,0.97,199000,0.38,0.06,82
+27,28,Scared to Be Lonely,Martin Garrix,big room,2017,138,0.54,0.58,-8,0.26,0.2,221000,0.09,0.06,81
+28,29,Whatever It Takes,Imagine Dragons,modern rock,2017,135,0.66,0.67,-5,0.12,0.56,201000,0.04,0.03,81
+29,30,Let Me Love You,DJ Snake,electronic trap,2016,100,0.72,0.65,-5,0.14,0.16,206000,0.09,0.03,81
+30,31,i hate u i love u (feat. olivia o'brien),gnash,pop,2016,93,0.28,0.49,-13,0.1,0.18,251000,0.69,0.3,81
+31,32,Silence,Marshmello,brostep,2017,142,0.76,0.52,-3,0.17,0.29,181000,0.26,0.09,80
+32,33,The Nights,Avicii,big room,2014,126,0.84,0.53,-5,0.25,0.65,177000,0.02,0.04,80
+33,34,Without You (feat. Sandro Cavazza),Avicii,big room,2017,134,0.86,0.66,-5,0.05,0.3,182000,0.0,0.04,80
+34,35,In the Name of Love,Martin Garrix,big room,2016,134,0.52,0.5,-6,0.45,0.17,196000,0.11,0.04,80
+35,36,Faded,Alan Walker,electro house,2018,180,0.63,0.47,-5,0.11,0.16,212000,0.03,0.05,80
+36,37,Story of My Life,One Direction,boy band,2013,121,0.66,0.6,-6,0.12,0.29,245000,0.23,0.05,80
+37,38,Solo (feat. Demi Lovato),Clean Bandit,dance pop,2018,105,0.64,0.74,-5,0.35,0.56,223000,0.04,0.04,79
+38,39,Love Lies (with Normani),Khalid,alternative r&b,2018,144,0.65,0.71,-6,0.13,0.34,202000,0.1,0.04,79
+39,40,Little Do You Know,Alex & Sierra,neo mellow,2014,146,0.29,0.5,-9,0.19,0.37,185000,0.75,0.03,79
+40,41,Mercy,Shawn Mendes,canadian pop,2017,148,0.66,0.56,-5,0.11,0.36,209000,0.13,0.08,79
+41,42,Exchange,Bryson Tiller,pop,2015,160,0.43,0.53,-11,0.14,0.27,195000,0.11,0.19,79
+42,43,One Last Time,Ariana Grande,dance pop,2014,125,0.59,0.63,-5,0.1,0.1,197000,0.09,0.03,79
+43,44,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,atl hip hop,2010,120,0.86,0.66,-3,0.08,0.65,221000,0.03,0.11,78
+44,45,Give Me Everything,Pitbull,dance pop,2011,129,0.94,0.67,-3,0.3,0.53,252000,0.19,0.16,78
+45,46,Waiting For Love,Avicii,big room,2015,128,0.74,0.58,-4,0.2,0.61,231000,0.31,0.05,78
+46,47,Stay,Zedd,complextro,2017,102,0.62,0.69,-5,0.12,0.54,210000,0.25,0.06,78
+47,48,It Ain't Me (with Selena Gomez),Kygo,edm,2017,100,0.53,0.64,-7,0.09,0.52,221000,0.12,0.07,78
+48,49,Hall of Fame,The Script,celtic rock,2012,85,0.87,0.42,-4,0.12,0.63,203000,0.07,0.06,78
+49,50,Payphone,Maroon 5,pop,2012,110,0.75,0.74,-5,0.29,0.55,231000,0.02,0.04,78
+50,51,PILLOWTALK,ZAYN,dance pop,2016,125,0.7,0.58,-4,0.09,0.44,203000,0.12,0.05,78
+51,52,All I Want,Kodaline,irish pop,2013,86,0.41,0.21,-10,0.08,0.16,306000,0.17,0.04,78
+52,53,Youngblood,5 Seconds of Summer,boy band,2018,120,0.85,0.6,-5,0.12,0.15,203000,0.02,0.46,77
+53,54,Symphony (feat. Zara Larsson),Clean Bandit,dance pop,2017,123,0.63,0.71,-5,0.14,0.46,212000,0.26,0.06,77
+54,55,Unsteady,X Ambassadors,indie poptimism,2015,117,0.67,0.39,-6,0.12,0.2,194000,0.18,0.06,77
+55,56,Classic,MKTO,dance pop,2012,102,0.79,0.72,-5,0.16,0.76,175000,0.04,0.12,77
+56,57,Time of Our Lives,Pitbull,dance pop,2014,124,0.8,0.72,-6,0.69,0.72,229000,0.09,0.06,77
+57,58,Please Don't Go,Joel Adams,australian pop,2015,84,0.77,0.51,-5,0.29,0.24,211000,0.01,0.06,76
+58,59,When You Love Someone,James TW,neo mellow,2019,126,0.45,0.68,-6,0.05,0.35,217000,0.26,0.03,76
+59,60,I Dont Wanna Live Forever (Fifty Shades Darker),ZAYN,dance pop,2016,118,0.45,0.74,-8,0.33,0.09,245000,0.06,0.06,76
+60,61,Perfect Strangers,Jonas Blue,dance pop,2018,118,0.86,0.73,-4,0.21,0.7,197000,0.39,0.05,76
+61,62,Friends (with BloodPopÂ®),Justin Bieber,canadian pop,2017,105,0.73,0.74,-5,0.3,0.62,189000,0.0,0.04,75
+62,63,September Song,JP Cooper,dance pop,2017,96,0.62,0.61,-7,0.09,0.37,220000,0.05,0.04,75
+63,64,Never Forget You,Zara Larsson,dance pop,2017,146,0.73,0.58,-6,0.27,0.28,213000,0.0,0.05,75
+64,65,Say You Won't Let Go,James Arthur,pop,2016,99,0.56,0.4,-7,0.09,0.48,211000,0.69,0.05,75
+65,66,Airplanes (feat. Hayley Williams),B.o.B,atl hip hop,2010,93,0.87,0.66,-4,0.04,0.38,180000,0.11,0.12,75
+66,67,Whistle,Flo Rida,dance pop,2012,104,0.94,0.75,-6,0.29,0.74,225000,0.02,0.05,75
+67,68,Do It Again,Pia Mia,dance pop,2015,96,0.56,0.71,-7,0.09,0.41,208000,0.03,0.05,74
+68,69,Paris,The Chainsmokers,electropop,2017,100,0.64,0.65,-7,0.09,0.25,222000,0.02,0.03,74
+69,70,All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,dance pop,2015,95,0.52,0.69,-6,0.11,0.18,230000,0.12,0.13,74
+70,71,Slide (feat. Frank Ocean & Migos),Calvin Harris,dance pop,2017,104,0.8,0.74,-3,0.25,0.51,231000,0.5,0.05,74
+71,72,No Promises (feat. Demi Lovato),Cheat Codes,dance pop,2017,113,0.67,0.74,-5,0.11,0.6,224000,0.06,0.13,73
+72,73,The Ocean (feat. Shy Martin),Mike Perry,big room,2016,90,0.57,0.63,-6,0.1,0.19,183000,0.02,0.03,73
+73,74,Capsize,FRENSHIP,electropop,2016,93,0.71,0.68,-6,0.69,0.36,238000,0.04,0.03,72
+74,75,As Long As You Love Me,Justin Bieber,canadian pop,2012,140,0.87,0.57,-3,0.36,0.61,229000,0.08,0.1,72
+75,76,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,dance pop,2017,121,0.87,0.7,-5,0.1,0.73,194000,0.15,0.03,71
+76,77,2U (feat. Justin Bieber),David Guetta,dance pop,2017,145,0.65,0.55,-6,0.23,0.56,195000,0.22,0.06,71
+77,78,Strip That Down (feat. Quavo),Liam Payne,dance pop,2019,106,0.5,0.87,-5,0.08,0.55,202000,0.2,0.05,71
+78,79,Wildest Dreams,Taylor Swift,dance pop,2014,140,0.66,0.55,-7,0.11,0.47,220000,0.07,0.07,71
+79,80,Sun Is Shining,Axwell /\ Ingrosso,big room,2017,132,0.76,0.47,-3,0.07,0.38,255000,0.09,0.05,71
+80,81,Solo Dance,Martin Jensen,big room,2016,115,0.85,0.75,-2,0.2,0.4,175000,0.05,0.05,70
+81,82,Alone,Alan Walker,electro house,2016,97,0.93,0.68,-3,0.12,0.16,161000,0.19,0.05,70
+82,83,You Don't Know Me (feat. RAYE),Jax Jones,dance pop,2019,124,0.67,0.88,-6,0.32,0.67,213000,0.16,0.14,70
+83,84,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,dance pop,2012,146,0.93,0.63,-4,0.1,0.88,258000,0.03,0.08,70
+84,85,Hurts So Good,Astrid S,dance pop,2016,120,0.63,0.67,-5,0.09,0.42,209000,0.08,0.05,69
+85,86,Five More Hours - Deorro x Chris Brown,Deorro,big room,2017,128,0.88,0.7,-3,0.82,0.5,212000,0.03,0.22,69
+86,87,She Looks So Perfect,5 Seconds of Summer,boy band,2014,160,0.95,0.49,-4,0.33,0.44,202000,0.0,0.13,69
+87,88,Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,dance pop,2012,130,0.88,0.67,-3,0.26,0.55,195000,0.06,0.04,69
+88,89,Mama,Jonas Blue,dance pop,2017,104,0.79,0.74,-4,0.05,0.54,184000,0.1,0.04,68
+89,90,Don't Leave,Snakehips,dance pop,2017,122,0.7,0.66,-3,0.26,0.34,215000,0.22,0.08,68
+90,91,Drag Me Down,One Direction,boy band,2015,138,0.71,0.72,-6,0.05,0.61,192000,0.1,0.04,68
+91,92,The One That Got Away,Katy Perry,dance pop,2010,134,0.8,0.69,-4,0.16,0.88,227000,0.0,0.04,66
+92,93,Shed a Light,Robin Schulz,dance pop,2016,122,0.79,0.48,-5,0.26,0.58,191000,0.11,0.1,65
+93,94,Sex,Cheat Codes,dance pop,2016,105,0.69,0.6,-6,0.13,0.19,228000,0.0,0.16,60
+94,95,Call on Me - Ryan Riback Remix,Starley,aussietronica,2016,105,0.84,0.67,-4,0.16,0.72,222000,0.06,0.04,58
+95,96,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,dance pop,2011,90,0.8,0.65,-3,0.27,0.8,211000,0.03,0.1,56
+96,97,Dynamite,Taio Cruz,dance pop,2011,120,0.79,0.76,-4,0.03,0.87,203000,0.0,0.08,56
+97,98,Break Your Heart,Taio Cruz,dance pop,2011,122,0.89,0.67,-5,0.24,0.68,185000,0.0,0.03,54
+98,99,Summer Air,ItaloBrothers,dance pop,2017,102,0.75,0.76,-4,0.08,0.49,184000,0.06,0.07,43
+99,100,All I Wanna Do,Martin Jensen,big room,2016,112,0.79,0.73,-4,0.07,0.56,194000,0.16,0.07,32
